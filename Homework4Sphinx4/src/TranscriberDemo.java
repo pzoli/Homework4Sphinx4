@@ -7,6 +7,8 @@ import edu.cmu.sphinx.api.LiveSpeechRecognizer;
 import edu.cmu.sphinx.api.SpeechResult;
 
 public class TranscriberDemo {
+	
+	// https://cmusphinx.github.io/wiki/tutorialsphinx4/
 
 	public static void main(String[] args) throws Exception {
 		Configuration configuration = new Configuration();
